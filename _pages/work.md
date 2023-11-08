@@ -1,16 +1,11 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Work Experience"
+permalink: /work/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Shanghai Industrial μTechnology Research Institute (SITRI) 
+======
+1. Signal processing and analysis of noise logger and hydrophone.
+2. Built the leak detection and location algorithm for noise logger and hydrophone.
