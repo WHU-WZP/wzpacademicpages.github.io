@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhipeng Wu/ Academic page"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhipeng Wu"
 description              : &description "personal description"
