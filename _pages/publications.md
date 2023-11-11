@@ -4,13 +4,38 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Paper
+======
+1. Zhipeng Wu, Wenjuan Liu, Zhihao Tong, Yao Cai, Chengliang Sun and Liang Lou, “Tuning Characteristics of AlN-Based Piezoelectric Micromachined Ultrasonic Transducers Using DC Bias Voltage”, IEEE Transactions on Electron Devices, vol. 69, no. 2, pp. 729-735, Feb. 2022, doi: 10.1109/TED.2021.3137766.
+2. Yunfei Gao, Minkan Chen, Zhipeng Wu, Lei Yao, Zhihao Tong, Songsong Zhang, Yuandong Alex Gu and Liang Lou, “A Miniaturized Transit-Time Ultrasonic Flowmeter based on ScAlN Piezoelectric Micromachined Ultrasonic Transducers for Small-Diameter Applications”, Microsystems & Nanoengineering, vol. 9, no. 1, p. 49, doi: 10.1038/s41378-023-00518-y.
+3. Yunfei Gao, Zhipeng Wu, Minkan Chen and Liang Lou, “A Miniaturized Transit-Time Ultrasonic Flowmeter Using PMUTS for Low-Flow Measurement in Small-Diameter Channels”, 2023 IEEE 36th International Conference on Micro Electro Mechanical Systems (MEMS), Munich, Germany, 2023, pp. 115-118, doi: 10.1109/MEMS49605.2023.10052185.
+4. Zhihao Tong, Haiyan Hu, Zhipeng Wu, Shuxin Xie, Guodong Chen, Songsong Zhang, Liang Lou and Huicong Liu, “An Ultrasonic Proximity Sensing Skin for Robot Safety Control by Using Piezoelectric Micromachined Ultrasonic Transducers (PMUTs)”, IEEE Sensors Journal, vol. 22, no. 18, pp. 17351-17361, 15 Sept.15, 2022, doi: 10.1109/JSEN.2021.3068487.
+5. Lei Wang, Wei Zhu, Zhipeng Wu, Wenjuan Liu and Chengliang Sun, “A Novel Coupled Piezoelectric Micromachined Ultrasonic Transducer Based on Piston Mode”, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 68, no. 11, pp. 3396-3405, Nov. 2021, doi: 10.1109/TUFFC.2021.3090043.
+6. Wei Zhu, Lei Wang, Zhipeng Wu, Wenjuan Liu and Chengliang Sun, “Broadband Piezoelectric Micromachined Ultrasonic Transducer with a Resonant Cavity”, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 69, no. 1, pp. 340-349, Jan. 2022, doi: 10.1109/TUFFC.2021.3119669.
+7. Zhipeng Wu, Wenjuan Liu, Zhihao Tong, Songsong Zhang, Yuandong Gu, Guoqiang Wu, Alexander Tovstopyat, Chengliang Sun, and Liang Lou, “A Novel Transfer Function Based Ring-Down Suppression System for PMUTs,” Sensors, vol. 21, no. 19, p. 6414, Sep. 2021, doi: 10.3390/s21196414.
+8. Zhipeng Wu, Yao Wu, Siyu He and Xiaohui Xiao, “Hierarchical fuzzy control based on spatial posture for a support-tracked type in-pipe robot”, Transactions of the Canadian Society for Mechanical Engineering, vol. 44, no. 1, pp. 133-147, 2019, doi: 10.1139/tcsme-2018-0052.
+9. Xiaoxia Ding, Zhipeng Wu, Mingze Gao, Minkan Chen, Jiawei Li, Tao Wu and Liang Lou ,“A High-Sensitivity Bowel Sound Electronic Monitor Based on Piezoelectric Micromachined Ultrasonic Transducers,” Micromachines, vol. 13, no. 12, p. 2221, Dec. 2022, doi: 10.3390/mi13122221.
+10. Jiaming Yan, Caihui Chen, Zhipeng Wu, Xiaoxia Ding and Liang Lou, “An Acoustic Localization Sensor Based on MEMS Microphone Array for Partial Discharge”, Sensors, vol. 23, no. 3, p. 1077, Jan. 2023, doi: 10.3390/s23031077.
+11. Baoyu Zhi, Zhipeng Wu, Caihui Chen, Minkan Chen, Xiaoxia Ding and Liang Lou, “A High Sensitivity AlN-Based MEMS Hydrophone for Pipeline Leak Monitoring”, Micromachines, vol. 14, no. 3, p. 654, Mar. 2023, doi: 10.3390/mi14030654.
+12. Mingze Gao, Zhihao Tong, Zhipeng Wu and Liang Lou, “An Ultrasonic Target Detection System Based on Piezoelectric Micromachined Ultrasonic Transducers”, Micromachines, vol. 14, no. 3, p. 683, Mar. 2023, doi: 10.3390/mi14030683.
+13. Zhenghu Zhang, Linwei Zhang, Zhipeng Wu, Yunfei Gao and Liang Lou, “A High-Sensitivity MEMS Accelerometer Using a Sc0.8Al0.2N-Based Four Beam Structure”, Micromachines, vol. 14, no. 5, p. 1069, May 2023, doi: 10.3390/mi14051069.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Patent
+=====
+1. Chengliang Sun, Zhipeng Wu, Lei Wang, Wei Zhu, Bohao Hu, Binghui Lin, Huihua Zhan, A MEMS piezoelectric Ultrasonic Transducers with pipe(一种具有声管的MEMS压电超声换能器), Patent number: ZL201911154366.3.
+2. Chengliang Sun, Zhipeng Wu, Wei Zhu, Lei Wang, Bohao Hu, Binghui Lin, Huihua Zhan, A MEMS piezoelectric Ultrasonic Transducers with trumpet structure(一种具有喇叭结构的MEMS压电超声换能器), Patent number: ZL201911156019.4.
+3. Chengliang Sun, Lei Wang, Zhipeng Wu, Wei Zhu, Bohao Hu, Binghui Lin, Huihua Zhan, A MEMS piezoelectric Ultrasonic Transducers based on Piston-mode and mass proof which can change its resonant frequency(一种基于Piston-mode的带质量负载可调谐MEMS 压电声换能器), Patent number: ZL201911140181.7.
+4. Chengliang Sun, Bohao Hu, Zhipeng Wu, Lei Wang, Binghui Lin, Wei Zhu, Huihua Zhan, A high-sensitivity vibration sensor(一种高灵敏度的振动传感器), Patent number: ZL202010027154.5.
+5. Chengliang Sun, Bohao Hu, Zhipeng Wu, Binghui Lin, Wei Zhu, Lei Wang, Yu Zhou, A high-sensitivity MEMS microphone(一种高灵敏度MEMS 压电式麦克风), Patent number: ZL201910799686.8.
+6.Chengliang Sun, Lei Wang, Zhipeng Wu, Wei Zhu, Bohao Hu, Binghui Lin, Huihua Zhan, A Piezoelectric Micromachined Ultrasonic Transducers based on the couple of vibration film(基于多振膜耦合的压电微机械超声换能器), Patent number: ZL 202011485094.8.
+7. Chengliang Sun, Wei Zhu, Zhipeng Wu, Lei Wang, Binghui Lin, Bohao Hu, A MEMS Ultrasonic Transducers with high emit preference(高发射性能的MEMS超声换能器), Patent number: ZL202110034536.5.
+8. Xiaohui Xiao, Zhipeng Wu, Xiao Chen, Haodong Shao, An in-pipe leakage flux measurement machine which can change its diameter(一种可变直径的管道内漏磁检测装置), Patent number: ZL201810391436.6.
+9. Xiaohui Xiao, Zhipeng Wu, Haiyan Hu, A modularized support-tracked type in-pipe robot(一种模块化支撑履带式管道内机器人), Patent number: ZL201811277390.1.
+10. Xiaohui Xiao, Xiao Chen, Zhipeng Wu, Taohan Wang, Weining Wang, Jiangkun Guo, A support-type in-pipe robot which can adapt different diameter of pipe(一种柔性自适应的支撑式管道内检测机器人), Patent number: ZL 201610049434.X.
+11. Liang Lou, Zhipeng Wu, Shuai Huang, Zhihao Tong, Yuandong Gu, A human-machine interaction system and method based on Piezoelectric Micromachined Ultrasonic Transducers(基于压电微机械超声换能器的人机交互系统及方法), Patent number: CN202111011781.0.
+12. Liang Lou, Zhipeng Wu, Zhihao Tong, Yang Liu, Songsong Zhang, A 3D pen-type interaction system and method based on Piezoelectric Micromachined Ultrasonic Transducers(基于压电微机械超声换能器的三维笔式交互系统及方法), Patent number: CN202111014198.5.
+13. Liang Lou, Zhipeng Wu, Shuai Huang, Linwei Zhang, Yang Liu, A 2D pen-type interaction system and method based on Piezoelectric Micromachined Ultrasonic Transducers(基于压电微机械超声换能器的二维笔式交互系统及方法), Patent number: CN202111014227.8.
+14. Liang Lou, Zhipeng Wu, A received Piezoelectric Micromachined Ultrasonic Transducers system and method based on DC Bias Voltage(基于直流偏置的接收压电微机械超声换能器系统及方法), Patent number: CN202110931604.8.
+15. Liang Lou, Zhipeng Wu, A Piezoelectric Micromachined Ultrasonic Transducers system and method based on DC Bias Voltage(基于直流偏置的压电微机械超声换能器系统及调节方法), Patent number: CN202110930999.X.
+16. Zhipeng Wu, Liang Lou, Yang Liu, Zhihao Tong, A Ring-Down and blind area Suppression System and method based on feedback system (基于反馈系统减小超声换能器余振和盲区的系统及方法), Patent number: CN202011172361.6.
+17. Zhipeng Wu, Liang Lou, Yang Liu, Zhihao Tong, A Ring-Down and blind area Suppression System and method based on Transfer Function(基于传递函数减小超声换能器余振和盲区的系统及方法), Patent number: CN202011172364.X.
