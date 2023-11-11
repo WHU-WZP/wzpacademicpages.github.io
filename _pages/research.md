@@ -28,3 +28,20 @@ This research is focus on the development of ultrasonic range-finding sensor bas
 (2) Gesture recognition is demonstrated through this system, then this information can control the motion of UR3 manipulator through ROS.<br/>
 (3) The built human-robot interaction system can realize gesture tracking and obstacle avoidance.<br/>
 
+## Ph.D. other research experience:
+1. Designed and developed an ultrasonic proximity sensing skin for robot safety control based on PMUTs.
+2. Designed a PMUTs based on piston mode.
+3. Designed a broadband PMUTs with a resonant cavity.
+
+## Shanghai Industrial μTechnology Research Institute research experience:
+1. Designed and developed a miniaturized transit-time ultrasonic flowmeter based on ScAlN PMUTs for small-diameter applications.
+2. Designed and developed a high-sensitivity bowel sound electronic monitor based on PMUTs.
+3. Designed and developed a high sensitivity AlN-based MEMS hydrophone for pipeline leak monitoring.
+4. Designed and developed an ultrasonic target detection system based on PMUTs.
+5. Designed and developed a high-sensitivity MEMS accelerometer using the Sc0.8Al0.2N-based four beam structure.
+6. Designed and developed an acoustic localization sensor based on MEMS microphone array for partial discharge.
+
+## Master of Science research experience:
+1. Designed a new self-adjusting support structure for the in-pipe robot to improve its motion ability in different pipe condition especially in vertical pipe.
+2. Proposed a hierarchical fuzzy controller for the above robot, which can be utilized to implement autonomous movement in the pipe.
+
