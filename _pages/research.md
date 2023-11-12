@@ -28,6 +28,7 @@ This research is focus on the development of ultrasonic range-finding sensor bas
         src = "../images/images_test/test1.png" 
         width = "46.5%">
     <br>
+ 
 (2) Built the scheme of the range-finding system and designed the digital signal processing program through LabVIEW.<br/>
 (3) Realized ultrasonic writing in a two-dimensional plane based the proposed ultrasonic range-finding system.<br/>
 3. The design of a human-robot interaction system based on AlN PMUTs and the UR3 manipulator:<br/>
