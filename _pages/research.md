@@ -21,6 +21,13 @@ This research is focus on the development of ultrasonic range-finding sensor bas
 (2) A novel ring-down suppression system based on transfer function is proposed to suppress the ring-down time and decrease the blind area of PMUTs.<br/>
 2. The design of an ultrasonic range-finding system based on AlN PMUTs:<br/>
 (1) Designed an ultrasonic range-finding sensor based on AlN PMUTs, which is mounted on FPCB and can be applied on the surface of UR3 manipulator.<br/>
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_test/test1.png" 
+        width = "46.5%">
+    <br>
 (2) Built the scheme of the range-finding system and designed the digital signal processing program through LabVIEW.<br/>
 (3) Realized ultrasonic writing in a two-dimensional plane based the proposed ultrasonic range-finding system.<br/>
 3. The design of a human-robot interaction system based on AlN PMUTs and the UR3 manipulator:<br/>
