@@ -35,6 +35,62 @@ This research is focus on the development of ultrasonic range-finding sensor bas
     </div>
     <p> </p>
  </center>
+ <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig2.png" 
+        width = "80%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig2. Experiment dependence of (a) −3 dB BW and (b) Q on dc bias voltage.
+    </div>
+    <p> </p>
+ </center>
+ <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig3.png" 
+        width = "80%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig3. Experiment dependence of ring-down time on dc bias voltage.
+    </div>
+    <p> </p>
+ </center>
+ <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig4a.png" 
+        width = "46.5%">
+      <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig4b.png" 
+        width = "46.5%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig4. (a) Experimental frequency response of the PMUT array under dc bias voltage. (b) Effective frequency range under biased state and non-biased condition.
+    </div>
+    <p> </p>
+ </center>
 (2) A novel ring-down suppression system based on transfer function is proposed to suppress the ring-down time and decrease the blind area of PMUTs.<br/>
 2. The design of an ultrasonic range-finding system based on AlN PMUTs:<br/>
 (1) Designed an ultrasonic range-finding sensor based on AlN PMUTs, which is mounted on FPCB and can be applied on the surface of UR3 manipulator.<br/>
