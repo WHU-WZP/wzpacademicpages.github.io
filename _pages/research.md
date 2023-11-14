@@ -23,7 +23,7 @@ This research is focus on the development of ultrasonic range-finding sensor bas
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/images_research/Fig1.png" 
-        width = "46.5%">
+        width = "80%">
     <br>
    <div style = "
         color: orange;
