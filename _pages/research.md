@@ -22,9 +22,18 @@ This research is focus on the development of ultrasonic range-finding sensor bas
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/images_test/test1.png" 
+        src = "../images/images_research/Fig1.png" 
         width = "46.5%">
     <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig1. Experiment dependence of resonant frequency on dc bias voltage.
+    </div>
+    <p> </p>
  </center>
 (2) A novel ring-down suppression system based on transfer function is proposed to suppress the ring-down time and decrease the blind area of PMUTs.<br/>
 2. The design of an ultrasonic range-finding system based on AlN PMUTs:<br/>
