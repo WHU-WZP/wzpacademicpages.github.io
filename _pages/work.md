@@ -15,12 +15,12 @@ Role: trainee, MEMS engineer, product development manager<br/>
 ## The work during MEMS engineer
 * The design, simulation and measurement of piezoelectric MEMS devices, especially PMUT, microphone, accelerometer, hydrophone, SAW and etc.<br/>
 * The development of sensor based on piezoelectric MEMS devices, such as:<br/>
-1. Designed and developed a miniaturized transit-time ultrasonic flowmeter based on ScAlN PMUTs for small-diameter applications.
-2. Designed and developed a high-sensitivity bowel sound electronic monitor based on PMUTs.
-3. Designed and developed a high sensitivity AlN-based MEMS hydrophone for pipeline leak monitoring.
-4. Designed and developed an ultrasonic target detection system based on PMUTs.
-5. Designed and developed a high-sensitivity MEMS accelerometer using the Sc0.8Al0.2N-based four beam structure.
-6. Designed and developed an acoustic localization sensor based on MEMS microphone array for partial discharge.
+1. Designed and developed a miniaturized transit-time ultrasonic flowmeter based on ScAlN PMUTs for small-diameter applications.<br/>
+2. Designed and developed a high-sensitivity bowel sound electronic monitor based on PMUTs.<br/>
+3. Designed and developed a high sensitivity AlN-based MEMS hydrophone for pipeline leak monitoring.<br/>
+4. Designed and developed an ultrasonic target detection system based on PMUTs.<br/>
+5. Designed and developed a high-sensitivity MEMS accelerometer using the Sc0.8Al0.2N-based four beam structure.<br/>
+6. Designed and developed an acoustic localization sensor based on MEMS microphone array for partial discharge.<br/>
 ## The work during product development manager
 * Participated the technical proposal for the first sensor product (a noise logger for pipe leak detection), and collaborated with engineers to complete this product.<br/>
 * Signal processing and analysis for the noise logger and hydrophone.<br/>
