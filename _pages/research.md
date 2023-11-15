@@ -146,8 +146,8 @@ Firstly, an ultrasonic range-finding sensor is designed, which consists of three
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/images_research/Fig8.png" 
-        width = "80%">
+        src = "../images/images_research/Fig8.jpg" 
+        width = "90%">
     <br>
    <div style = "
         color: orange;
@@ -155,7 +155,7 @@ Firstly, an ultrasonic range-finding sensor is designed, which consists of three
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Fig8. The demo of ultrasonic writing
+        Fig8. The demo of ultrasonic writing.
     </div>
     <p> </p>
  </center>
