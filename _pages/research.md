@@ -87,11 +87,78 @@ The detail about this research can be found in [DIO:10.1109/TED.2021.3137766](ht
     </div>
     <p> </p>
  </center>
-(2) A novel ring-down suppression system based on transfer function is proposed to suppress the ring-down time and decrease the blind area of PMUTs.<br/>
+(2) A novel ring-down suppression system based on transfer function is proposed to suppress the ring-down time and decrease the blind area of PMUTs.As shown in Fig5, this suppression system includes a transfer function and a simple P (proportion) controller, which can reduce the ringdown time without degrading any performances of PMUTs. The transfer function serves as a virtual PMUT device and feeds its output into the P controller; then, the P controller generates a suppression signal to the actual PMUT device. The suppression system effectively reduces the blind area of the PMUT array by suppressing the ring-down of the PMUT array. The ring-down suppression effect of the suppression system on a PMUT array under different proportional parameters (1∼10) is experimented and the results is shown in Fig6. Through the suppression system, the ring-down time of a PMUT array is demonstrated to be reduced by up to 93%. In addition, the P controller has been experimentally optimized, reducing the blind area of the PMUT array by about 40%.<br/>
+ <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig5.png" 
+        width = "80%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig5. The system architecture of the suppression system based on the transfer function of PMUTs.
+    </div>
+    <p> </p>
+ </center>
+ <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig6.png" 
+        width = "50%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig6. The experimental result of the 115-kHz PMUT array under different k: (a) the mixed input signal, (b) the measurement result of LDV, (c) the measurement result of microphone, and (d) the measurement result of microphone under k = 2.
+    </div>
+    <p> </p>
+ </center>
+
 2. The design of an ultrasonic range-finding system based on AlN PMUTs:<br/>
-(1) Designed an ultrasonic range-finding sensor based on AlN PMUTs, which is mounted on FPCB and can be applied on the surface of UR3 manipulator.<br/>
-(2) Built the scheme of the range-finding system and designed the digital signal processing program through LabVIEW.<br/>
-(3) Realized ultrasonic writing in a two-dimensional plane based the proposed ultrasonic range-finding system.<br/>
+Firstly, an ultrasonic range-finding sensor is designed, which consists of three AlN PMUTs arrays, as shown in Fig7. The PMUT array have 9 (3×3) elements with the resonant frequency of 115kHz, the -3dB bandwidth of 0.99kHz and the Q factory of 115.81. In addition, this sensor is based on the FPCB and can be applied on curving surface such as the surface of UR3 manipulator. Then the pulse-echo method is used to realize the distance measurement in the range-finding system, and the digital signal processing program has also been designed through LabVIEW. The whole digital signal processing program includes the filtering program, the signal demodulation program, the Time of Flight (TOF) calculation program, and the coordinate of transmitter calculation program. The filtering program combines two methods of the wavelet filter and the bandpass filter. The Hilbert transform is used to obtained the envelope of the signal in the signal demodulation program. The linear fitting of leading edge of the signal envelope is used to calculate the TOF in the TOF calculation program, which is a simplified model fitting method. This method has the advantages of high accuracy and good real-time performance. The coordinate of transmitter calculation program solves the coordinates by analyzing the triangular relationship between the transmitter and the two receivers. The location performance of the proposed system is also characterized. The results show that the location performance and static performance of the proposed system is pretty good. Due to the high positioning accuracy of the proposed system, it can realize ultrasonic writing in a two-dimensional plane, as shown in Fig8.<br/>
+ <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig7.png" 
+        width = "80%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig7. The designed ultrasonic range-finding sensor based on AlN PMUTs.
+    </div>
+    <p> </p>
+ </center>
+  <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig8.png" 
+        width = "80%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig8. The demo of ultrasonic writing
+    </div>
+    <p> </p>
+ </center>
 3. The design of a human-robot interaction system based on AlN PMUTs and the UR3 manipulator:<br/>
 (1) Built the scheme of the human-robot interaction system based on the UR3 manipulator and the above ultrasonic range-finding sensor.<br/>
 (2) Gesture recognition is demonstrated through this system, then this information can control the motion of UR3 manipulator through ROS.<br/>
