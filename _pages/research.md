@@ -181,9 +181,68 @@ The AlN PMUTs based ultrasonic range-finding system is combined with the UR3 man
  </center>
 
 ## Ph.D. other research experience:
-1. Designed and developed an ultrasonic proximity sensing skin for robot safety control based on PMUTs.
-2. Designed a PMUTs based on piston mode.
-3. Designed a broadband PMUTs with a resonant cavity.
+1.Designed and developed an ultrasonic proximity sensing skin for robot safety control based on PMUTs.<br/>
+Abstract: The safety issue of robot becomes a key challenge in modern manufacturing industry, especially in the scenario of frequent human-robot collaboration. This paper presents a flexible ultrasonic proximity sensing skinwhich can be integrated on the surface of robot arm to ensure the safe human-robot collaboration. The sensing skin is composed of three pieces of aluminum nitride based piezoelectric micromachined ultrasonic transducers (PMUTs) arrays at the resonance frequency of 115 kHz and chip size of 4 mm x 4 mm x 0.5 mm. The three pieces of PMUTs arrays are evenly integrated on the flexible printed circuit board (FPCB) with a device size of 8.8mm x 60 mm x 1.7 mm. The proximity sensing skin can detect obstacles within 300 mm and 60 degrees in front, and shows a large sensing coverage in comparison with capacitive/infrared devices. Besides, it is capable of sensing transparent materials like glass. Finally, since the small size and good scalability of micro-electro-mechanical system (MEMS), the PMUTs are easy to install onto robots and to integrate with other ultrasonic transducers in the future. This PMUTs based sensing skin will greatly enhance the sensing capability of robots and human safety during collaborative work.<br/>
+The detail about this research can be found in [DIO:10.1109/JSEN.2021.3068487](http://dx.doi.org/10.1109/JSEN.2021.3068487){:target="_blank"}. <br/>
+  <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig10.png" 
+        width = "90%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig10. 
+    </div>
+    <p> </p>
+ </center>
+ 
+2.Designed a PMUTs based on piston mode.<br/>
+Abstract: This article presents a piezoelectric micromachined ultrasonic transducer (pMUT) modified with a piston diaphragm term as piston diaphragm pMUT (PD-pMUT). The transmission sound pressure level (SPL) and the frequency bandwidth of the modified transducer can be remarkably improved by adding a piston diaphragm on the central circular diaphragm. In this work, a lumped model, an acoustic resonance model, and an equivalent circuit model are established to study the multiresonance mechanism. The second resonance peak is contributed by the interference acoustic wave generated between the circular and piston diaphragms. This work demonstrated a simulated far-field average SPL up to 132.2 dB in the single modified piston diaphragm structure and a 28.1%–6-dB frequency bandwidth by theoretical analysis and parameter optimization. The bandwidth is 3.31 times of the traditional pMUT with aluminum nitride (AlN) in air. In addition, the PD-pMUT has a −6-dB frequency bandwidth of up to 66%, which is 1.4 times of traditional pMUT in the liquid-coupled operation. The proposed PD-pMUT provides a new approach for the application of high transmission power and broad bandwidth transducers.<br/>
+The detail about this research can be found in [DIO:10.1109/TUFFC.2021.3090043](http://dx.doi.org/10.1109/TUFFC.2021.3090043){:target="_blank"}. <br/>
+  <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig11.png" 
+        width = "90%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig11. The structure of the PMUTs based on piston mode.
+    </div>
+    <p> </p>
+ </center>
+ 
+3.Designed a broadband PMUTs with a resonant cavity.<br/>
+Abstract: This article presents a broadband piezoelectric micromachined ultrasonic transducer (PMUT) surrounded by a resonant cavity called C-PMUT. The C-PMUT shows two resonancepeaks derived fromthe resonances of the active PMUT cell and the passive resonant cavity. Both of the two resonances vibrate at the first-order resonant mode. An equivalent circuit model is established considering the vibration of the resonant cavity and the crosstalk between the PMUT cell and the resonant cavity. Finite element analysis (FEA) has been used to verify the theoretical model. Bandwidth optimization has been operated and the −6 dB bandwidth is extended to more than 100% in liquid. Furthermore, the theoretical model of the C-PMUT array is established based on the C-PMUT cell. The FEA models of the C-PMUT arrays are proposed, and the −6 dB bandwidth of a 4 × 4 C-PMUT array is increased to 2× compared to the traditional array. Therefore, the C-PMUT provides a novel broadband strategy for future real-time ultrasound imaging.<br/>
+The detail about this research can be found in [DIO:10.1109/TUFFC.2021.3119669](http://dx.doi.org/10.1109/TUFFC.2021.3119669){:target="_blank"}. <br/>
+  <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig12.png" 
+        width = "90%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig12. The structure of the broadband PMUTs with a resonant cavity.
+    </div>
+    <p> </p>
+ </center>
 
 ## Shanghai Industrial μTechnology Research Institute research experience:
 1. Designed and developed a miniaturized transit-time ultrasonic flowmeter based on ScAlN PMUTs for small-diameter applications.
