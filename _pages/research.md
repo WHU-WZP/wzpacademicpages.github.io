@@ -245,14 +245,33 @@ The detail about this research can be found in [DIO:10.1109/TUFFC.2021.3119669](
  </center>
 
 ## Shanghai Industrial μTechnology Research Institute research experience:
-1. Designed and developed a miniaturized transit-time ultrasonic flowmeter based on ScAlN PMUTs for small-diameter applications.
-2. Designed and developed a high-sensitivity bowel sound electronic monitor based on PMUTs.
-3. Designed and developed a high sensitivity AlN-based MEMS hydrophone for pipeline leak monitoring.
-4. Designed and developed an ultrasonic target detection system based on PMUTs.
-5. Designed and developed a high-sensitivity MEMS accelerometer using the Sc0.8Al0.2N-based four beam structure.
-6. Designed and developed an acoustic localization sensor based on MEMS microphone array for partial discharge.
+1.Designed and developed a miniaturized transit-time ultrasonic flowmeter based on ScAlN PMUTs for small-diameter applications.
+Abstract: Transit-time ultrasonic flowmeters (TTUFs) are among the most widely used devices for flow measurements. However, traditional TTUFs are usually based on a bulk piezoelectric transducer, which limits their application in small-diameter channels. In this paper, we developed a miniaturized TTUF based on scandium-doped aluminum nitride (ScAlN) piezoelectric micromachined ultrasonic transducers (PMUTs). The proposed TTUF contains two PMUT-based transceivers and a π-type channel. The PMUTs contain 13 × 13 square cells with dimensions of 2.8 × 2.8mm2. To compensate for the acoustic impedance mismatch with liquid, a layer of polyurethane is added to the surface of the PMUTs as a matching layer. The PMUT-based transceivers show good transmitting sensitivity (with 0.94 MPa/V surface pressure) and receiving sensitivity (1.79 mV/kPa) at a frequency of 1 MHz in water. Moreover, the dimensions of the π-type channel are optimized to achieve a measurement sensitivity of 82 ns/(m/s) and a signal-to-noise ratio (SNR) better than 15 dB. Finally, we integrate the fabricated PMUTs into the TDC-GP30 platform. The experimental results show that the developed TTUF provides a wide range of flow measurements from 2 to 300 L/h in a channel of 4 mm diameter, which is smaller than most reported channels. The accuracy and repeatability of the TTUF are within 0.2% and 1%, respectively. The proposed TTUF shows great application potential in industrial applications such as medical and chemical applications.<br/>
+The detail about this research can be found in [DIO:10.1038/s41378-023-00518-y](http://dx.doi.org/10.1038/s41378-023-00518-y){:target="_blank"}. <br/>
+  <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig13.png" 
+        width = "90%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig13. The schematic of the developed ultrasonic flowmeter.
+    </div>
+    <p> </p>
+ </center>
+2.Designed and developed a high-sensitivity bowel sound electronic monitor based on PMUTs.
+3.Designed and developed a high sensitivity AlN-based MEMS hydrophone for pipeline leak monitoring.
+4.Designed and developed an ultrasonic target detection system based on PMUTs.
+5.Designed and developed a high-sensitivity MEMS accelerometer using the Sc0.8Al0.2N-based four beam structure.
+6.Designed and developed an acoustic localization sensor based on MEMS microphone array for partial discharge.
 
 ## Master of Science research experience:
-1. Designed a new self-adjusting support structure for the in-pipe robot to improve its motion ability in different pipe condition especially in vertical pipe.
-2. Proposed a hierarchical fuzzy controller for the above robot, which can be utilized to implement autonomous movement in the pipe.
+1.Designed a new self-adjusting support structure for the in-pipe robot to improve its motion ability in different pipe condition especially in vertical pipe.
+2.Proposed a hierarchical fuzzy controller for the above robot, which can be utilized to implement autonomous movement in the pipe.
 
