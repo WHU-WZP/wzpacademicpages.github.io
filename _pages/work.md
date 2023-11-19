@@ -31,4 +31,4 @@ The work during product development manager
 * Participated the technical proposal for the first sensor product (a noise logger for pipe leak detection), and collaborated with engineers to complete this product.<br/>
 * Signal processing and analysis for the noise logger and hydrophone.<br/>
 * Built the leak detection and location algorithm for noise logger and hydrophone. Several algorithms have been development, which can be applied in the MCU of noise logger or the server of website. The effect of the leak detection algorithm applied in the MCU of noise logger is similar to the current mature products. And the algorithms applied in the server of website can provide more accurate water leakage analysis.<br/>
-* The analysis and writing of patant.<br/>
+* The analysis and writing of patent.<br/>

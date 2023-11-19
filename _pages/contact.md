@@ -7,4 +7,6 @@ author_profile: true
 
 **Name in Chinese**: 吴志鹏
 
-**Email**: 
+**Email**: whuwuzhipeng@163.com
+
+

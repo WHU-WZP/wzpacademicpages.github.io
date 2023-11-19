@@ -161,7 +161,7 @@ Firstly, an ultrasonic range-finding sensor is designed, which consists of three
     <p> </p>
  </center>
 3.The design of a human-robot interaction system based on AlN PMUTs and the UR3 manipulator:<br/>
-The AlN PMUTs based ultrasonic range-finding system is combined with the UR3 manipulator to realize the human-robot interaction prototype system. According to the requirements of the human-robot interaction prototype system, the software and hardware scheme of the human-robot interaction system are built. An algorithm is proposed to gesture recognition which uses the distance and the angle between the current position of transmitter and the previous position of transmitter to recognize actions. This algorithm is programmed through LabVIEW and the effect of the algorithm is experimental demonstrated. The experiment results show that the effect of gesture recognition is very good within the range of 10cm×10cm which is 20cm away from the receiver, and the recognition rate can reach 100% within this range. Finally, the ultrasonic range-finding system based on PMUTs is combined with the UR3 manipulator based on ROS to realize the human-robot interaction between humans and collaborative robots. The experimental results show that the built human-robot interaction system can realize gesture tracking and obstacle avoidance, as shown in Fig9.<br/>
+The AlN PMUTs based ultrasonic range-finding system is combined with the UR3 manipulator to realize the human-robot interaction prototype system. According to the requirements of the human-robot interaction prototype system, the software and hardware scheme of the human-robot interaction system are built. An algorithm is proposed to gesture recognition which uses the distance and the angle between the current position of transmitter and the previous position of transmitter to recognize actions. This algorithm is programmed through LabVIEW and the effect of the algorithm is experimental demonstrated. The experiment results show that the effect of gesture recognition is very good within the range of 10cm×10cm which is 20cm away from the receiver, and the recognition rate can reach 100% within this range. Finally, the ultrasonic range-finding system based on PMUTs is combined with the UR3 manipulator based on ROS to realize the human-robot interaction between humans and collaborative robots. The experimental results show that the built human-robot interaction system can realize gesture tracking and obstacle avoidance, as shown in Fig9 and Fig10.<br/>
   <center>
     <img style = "
         border-radius: 0.3125em;
@@ -180,6 +180,24 @@ The AlN PMUTs based ultrasonic range-finding system is combined with the UR3 man
     <p> </p>
  </center>
 
+   <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig10.png" 
+        width = "90%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig10. The demo of obstacle avoidance based the proposed human-robot interaction system.
+    </div>
+    <p> </p>
+ </center>
+
 ## Ph.D. other research experience:
 1.Designed and developed an ultrasonic proximity sensing skin for robot safety control based on PMUTs.<br/>
 Abstract: The safety issue of robot becomes a key challenge in modern manufacturing industry, especially in the scenario of frequent human-robot collaboration. This paper presents a flexible ultrasonic proximity sensing skinwhich can be integrated on the surface of robot arm to ensure the safe human-robot collaboration. The sensing skin is composed of three pieces of aluminum nitride based piezoelectric micromachined ultrasonic transducers (PMUTs) arrays at the resonance frequency of 115 kHz and chip size of 4 mm x 4 mm x 0.5 mm. The three pieces of PMUTs arrays are evenly integrated on the flexible printed circuit board (FPCB) with a device size of 8.8mm x 60 mm x 1.7 mm. The proximity sensing skin can detect obstacles within 300 mm and 60 degrees in front, and shows a large sensing coverage in comparison with capacitive/infrared devices. Besides, it is capable of sensing transparent materials like glass. Finally, since the small size and good scalability of micro-electro-mechanical system (MEMS), the PMUTs are easy to install onto robots and to integrate with other ultrasonic transducers in the future. This PMUTs based sensing skin will greatly enhance the sensing capability of robots and human safety during collaborative work.<br/>
@@ -188,7 +206,7 @@ The detail about this research can be found in [DIO:10.1109/JSEN.2021.3068487](h
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/images_research/Fig10.jpg" 
+        src = "../images/images_research/Fig11.jpg" 
         width = "90%">
     <br>
    <div style = "
@@ -197,7 +215,7 @@ The detail about this research can be found in [DIO:10.1109/JSEN.2021.3068487](h
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Fig10. 
+        Fig11. The structure of the proposed ultrasonic proximity sensing skin.
     </div>
     <p> </p>
  </center>
@@ -205,27 +223,6 @@ The detail about this research can be found in [DIO:10.1109/JSEN.2021.3068487](h
 2.Designed a PMUTs based on piston mode.<br/>
 Abstract: This article presents a piezoelectric micromachined ultrasonic transducer (pMUT) modified with a piston diaphragm term as piston diaphragm pMUT (PD-pMUT). The transmission sound pressure level (SPL) and the frequency bandwidth of the modified transducer can be remarkably improved by adding a piston diaphragm on the central circular diaphragm. In this work, a lumped model, an acoustic resonance model, and an equivalent circuit model are established to study the multiresonance mechanism. The second resonance peak is contributed by the interference acoustic wave generated between the circular and piston diaphragms. This work demonstrated a simulated far-field average SPL up to 132.2 dB in the single modified piston diaphragm structure and a 28.1%–6-dB frequency bandwidth by theoretical analysis and parameter optimization. The bandwidth is 3.31 times of the traditional pMUT with aluminum nitride (AlN) in air. In addition, the PD-pMUT has a −6-dB frequency bandwidth of up to 66%, which is 1.4 times of traditional pMUT in the liquid-coupled operation. The proposed PD-pMUT provides a new approach for the application of high transmission power and broad bandwidth transducers.<br/>
 The detail about this research can be found in [DIO:10.1109/TUFFC.2021.3090043](http://dx.doi.org/10.1109/TUFFC.2021.3090043){:target="_blank"}. <br/>
-  <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/images_research/Fig11.png" 
-        width = "90%">
-    <br>
-   <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Fig11. The structure of the PMUTs based on piston mode.
-    </div>
-    <p> </p>
- </center>
- 
-3.Designed a broadband PMUTs with a resonant cavity.<br/>
-Abstract: This article presents a broadband piezoelectric micromachined ultrasonic transducer (PMUT) surrounded by a resonant cavity called C-PMUT. The C-PMUT shows two resonancepeaks derived fromthe resonances of the active PMUT cell and the passive resonant cavity. Both of the two resonances vibrate at the first-order resonant mode. An equivalent circuit model is established considering the vibration of the resonant cavity and the crosstalk between the PMUT cell and the resonant cavity. Finite element analysis (FEA) has been used to verify the theoretical model. Bandwidth optimization has been operated and the −6 dB bandwidth is extended to more than 100% in liquid. Furthermore, the theoretical model of the C-PMUT array is established based on the C-PMUT cell. The FEA models of the C-PMUT arrays are proposed, and the −6 dB bandwidth of a 4 × 4 C-PMUT array is increased to 2× compared to the traditional array. Therefore, the C-PMUT provides a novel broadband strategy for future real-time ultrasound imaging.<br/>
-The detail about this research can be found in [DIO:10.1109/TUFFC.2021.3119669](http://dx.doi.org/10.1109/TUFFC.2021.3119669){:target="_blank"}. <br/>
   <center>
     <img style = "
         border-radius: 0.3125em;
@@ -239,15 +236,14 @@ The detail about this research can be found in [DIO:10.1109/TUFFC.2021.3119669](
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Fig12. The structure of the broadband PMUTs with a resonant cavity.
+        Fig12. The structure of the PMUTs based on piston mode.
     </div>
     <p> </p>
  </center>
-
-## Shanghai Industrial μTechnology Research Institute research experience:
-1.Designed and developed a miniaturized transit-time ultrasonic flowmeter based on ScAlN PMUTs for small-diameter applications.
-Abstract: Transit-time ultrasonic flowmeters (TTUFs) are among the most widely used devices for flow measurements. However, traditional TTUFs are usually based on a bulk piezoelectric transducer, which limits their application in small-diameter channels. In this paper, we developed a miniaturized TTUF based on scandium-doped aluminum nitride (ScAlN) piezoelectric micromachined ultrasonic transducers (PMUTs). The proposed TTUF contains two PMUT-based transceivers and a π-type channel. The PMUTs contain 13 × 13 square cells with dimensions of 2.8 × 2.8mm2. To compensate for the acoustic impedance mismatch with liquid, a layer of polyurethane is added to the surface of the PMUTs as a matching layer. The PMUT-based transceivers show good transmitting sensitivity (with 0.94 MPa/V surface pressure) and receiving sensitivity (1.79 mV/kPa) at a frequency of 1 MHz in water. Moreover, the dimensions of the π-type channel are optimized to achieve a measurement sensitivity of 82 ns/(m/s) and a signal-to-noise ratio (SNR) better than 15 dB. Finally, we integrate the fabricated PMUTs into the TDC-GP30 platform. The experimental results show that the developed TTUF provides a wide range of flow measurements from 2 to 300 L/h in a channel of 4 mm diameter, which is smaller than most reported channels. The accuracy and repeatability of the TTUF are within 0.2% and 1%, respectively. The proposed TTUF shows great application potential in industrial applications such as medical and chemical applications.<br/>
-The detail about this research can be found in [DIO:10.1038/s41378-023-00518-y](http://dx.doi.org/10.1038/s41378-023-00518-y){:target="_blank"} and [DIO:10.1109/MEMS49605.2023.10052185](http://dx.doi.org/10.1109/MEMS49605.2023.10052185){:target="_blank"}. <br/>
+ 
+3.Designed a broadband PMUTs with a resonant cavity.<br/>
+Abstract: This article presents a broadband piezoelectric micromachined ultrasonic transducer (PMUT) surrounded by a resonant cavity called C-PMUT. The C-PMUT shows two resonancepeaks derived fromthe resonances of the active PMUT cell and the passive resonant cavity. Both of the two resonances vibrate at the first-order resonant mode. An equivalent circuit model is established considering the vibration of the resonant cavity and the crosstalk between the PMUT cell and the resonant cavity. Finite element analysis (FEA) has been used to verify the theoretical model. Bandwidth optimization has been operated and the −6 dB bandwidth is extended to more than 100% in liquid. Furthermore, the theoretical model of the C-PMUT array is established based on the C-PMUT cell. The FEA models of the C-PMUT arrays are proposed, and the −6 dB bandwidth of a 4 × 4 C-PMUT array is increased to 2× compared to the traditional array. Therefore, the C-PMUT provides a novel broadband strategy for future real-time ultrasound imaging.<br/>
+The detail about this research can be found in [DIO:10.1109/TUFFC.2021.3119669](http://dx.doi.org/10.1109/TUFFC.2021.3119669){:target="_blank"}. <br/>
   <center>
     <img style = "
         border-radius: 0.3125em;
@@ -261,19 +257,21 @@ The detail about this research can be found in [DIO:10.1038/s41378-023-00518-y](
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Fig13. The schematic of the developed ultrasonic flowmeter.
+        Fig13. The structure of the broadband PMUTs with a resonant cavity.
     </div>
     <p> </p>
  </center>
-2.Designed and developed a high-sensitivity bowel sound electronic monitor based on PMUTs.
-Abstract: Bowel sounds contain some important human physiological parameters which can reflect information about intestinal function. In this work, in order to realize real-time monitoring of bowel sounds, a portable and wearable bowel sound electronic monitor based on piezoelectric micromachined ultrasonic transducers (PMUTs) is proposed. This prototype consists of a sensing module to collect bowel sounds and a GUI (graphical user interface) based on LabVIEW to display real-time bowel sound signals. The sensing module is composed of four PMUTs connected in parallel and a signal conditioning circuit. The sensitivity, noise resolution, and non-linearity of the bowel sound monitor are measured in this work. The result indicates that the designed prototype has high sensitivity (-142.69 dB), high noise resolution (50 dB at 100 Hz), and small non-linearity. To demonstrate the characteristic of the designed electronic monitor, continuous bowel sound monitoring is performed using the electronic monitor and a stethoscope on a healthy human before and after a meal. Through comparing the experimental results and analyzing the signals in the time domain and frequency domain, this bowel sound monitor is demonstrated to record bowel sounds from the human intestine. This work displays the potential of the sensor for the daily monitoring of bowel sounds.<br/>
-The detail about this research can be found in [DIO:10.3390/mi13122221](http://dx.doi.org/10.3390/mi13122221){:target="_blank"}. <br/>
+
+## Shanghai Industrial μTechnology Research Institute research experience:
+1.Designed and developed a miniaturized transit-time ultrasonic flowmeter based on ScAlN PMUTs for small-diameter applications.
+Abstract: Transit-time ultrasonic flowmeters (TTUFs) are among the most widely used devices for flow measurements. However, traditional TTUFs are usually based on a bulk piezoelectric transducer, which limits their application in small-diameter channels. In this paper, we developed a miniaturized TTUF based on scandium-doped aluminum nitride (ScAlN) piezoelectric micromachined ultrasonic transducers (PMUTs). The proposed TTUF contains two PMUT-based transceivers and a π-type channel. The PMUTs contain 13 × 13 square cells with dimensions of 2.8 × 2.8mm2. To compensate for the acoustic impedance mismatch with liquid, a layer of polyurethane is added to the surface of the PMUTs as a matching layer. The PMUT-based transceivers show good transmitting sensitivity (with 0.94 MPa/V surface pressure) and receiving sensitivity (1.79 mV/kPa) at a frequency of 1 MHz in water. Moreover, the dimensions of the π-type channel are optimized to achieve a measurement sensitivity of 82 ns/(m/s) and a signal-to-noise ratio (SNR) better than 15 dB. Finally, we integrate the fabricated PMUTs into the TDC-GP30 platform. The experimental results show that the developed TTUF provides a wide range of flow measurements from 2 to 300 L/h in a channel of 4 mm diameter, which is smaller than most reported channels. The accuracy and repeatability of the TTUF are within 0.2% and 1%, respectively. The proposed TTUF shows great application potential in industrial applications such as medical and chemical applications.<br/>
+The detail about this research can be found in [DIO:10.1038/s41378-023-00518-y](http://dx.doi.org/10.1038/s41378-023-00518-y){:target="_blank"} and [DIO:10.1109/MEMS49605.2023.10052185](http://dx.doi.org/10.1109/MEMS49605.2023.10052185){:target="_blank"}. <br/>
   <center>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/images_research/Fig14.png" 
-        width = "80%">
+        width = "90%">
     <br>
    <div style = "
         color: orange;
@@ -281,12 +279,14 @@ The detail about this research can be found in [DIO:10.3390/mi13122221](http://d
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Fig14. The designed the bowel sound electronic monitor
+        Fig14. The schematic of the developed ultrasonic flowmeter.
     </div>
     <p> </p>
  </center>
-
-   <center>
+2.Designed and developed a high-sensitivity bowel sound electronic monitor based on PMUTs.
+Abstract: Bowel sounds contain some important human physiological parameters which can reflect information about intestinal function. In this work, in order to realize real-time monitoring of bowel sounds, a portable and wearable bowel sound electronic monitor based on piezoelectric micromachined ultrasonic transducers (PMUTs) is proposed. This prototype consists of a sensing module to collect bowel sounds and a GUI (graphical user interface) based on LabVIEW to display real-time bowel sound signals. The sensing module is composed of four PMUTs connected in parallel and a signal conditioning circuit. The sensitivity, noise resolution, and non-linearity of the bowel sound monitor are measured in this work. The result indicates that the designed prototype has high sensitivity (-142.69 dB), high noise resolution (50 dB at 100 Hz), and small non-linearity. To demonstrate the characteristic of the designed electronic monitor, continuous bowel sound monitoring is performed using the electronic monitor and a stethoscope on a healthy human before and after a meal. Through comparing the experimental results and analyzing the signals in the time domain and frequency domain, this bowel sound monitor is demonstrated to record bowel sounds from the human intestine. This work displays the potential of the sensor for the daily monitoring of bowel sounds.<br/>
+The detail about this research can be found in [DIO:10.3390/mi13122221](http://dx.doi.org/10.3390/mi13122221){:target="_blank"}. <br/>
+  <center>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -299,14 +299,11 @@ The detail about this research can be found in [DIO:10.3390/mi13122221](http://d
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Fig15. The experiment setup of the bowel sound electronic monitor
+        Fig15. The designed the bowel sound electronic monitor
     </div>
     <p> </p>
  </center>
 
-3.Designed and developed a high sensitivity AlN-based MEMS hydrophone for pipeline leak monitoring.<br/>
-Abstract: In this work, a miniaturized, low-cost, low-power and high-sensitivity AlN-based microelectro-mechanical system (MEMS) hydrophone is proposed for monitoring water pipeline leaks. The proposed MEMS Hydrophone consists of a piezoelectric micromachined ultrasonic transducer (PMUT) array, an acoustic matching layer and a pre-amplifier amplifier circuit. The array has 4 (2x2) PMUT elements with a first-order resonant frequency of 41.58 kHz. Due to impedance matching of the acoustic matching layer and the 40 dB gain of the pre-amplifier amplifier circuit, the packaged MEMS Hydrophone has a high sound pressure sensitivity of -170±2 dB (re: 1 V/uPa). The performance with respect to detecting pipeline leaks and locating leak points is demonstrated on a 31 m stainless leaking pipeline platform. The standard deviation (STD) of the hydroacoustic signal and Monitoring Index Efficiency (MIE) are extracted as features of the pipeline leak. A random forest model is trained for accurately classifying the leak and no-leak cases using the above features, and the accuracy of the model is about 97.69%. The cross-correlation method is used to locate the leak point, and the localization relative error is about 10.84% for a small leak of 12 L/min.<br/>
-The detail about this research can be found in [DIO:10.3390/mi14030654](http://dx.doi.org/10.3390/mi14030654){:target="_blank"}. <br/>
    <center>
     <img style = "
         border-radius: 0.3125em;
@@ -320,14 +317,14 @@ The detail about this research can be found in [DIO:10.3390/mi14030654](http://d
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Fig16. The designed MEMS Hydrophone
+        Fig16. The experiment setup of the bowel sound electronic monitor
     </div>
     <p> </p>
  </center>
 
-4.Designed and developed an ultrasonic target detection system based on PMUTs.<br/>
-Abstract: In this paper, an ultrasonic target detection system based on Piezoelectric Micromachined Ultrasonic Transducers (PMUTs) is proposed, which consists of the PMUTs based ultrasonic sensor and the sensor system. Two pieces of 3 x 3 PMUTs arrays with the resonant frequency of 115 kHz are used as transmitter and receiver of the PMUTs-based ultrasonic sensor. Then, the sensor system can calculate the target’s position through the signal received by the above receiver. The static and dynamic performance of the proposed prototype system are characterized on black, white, and transparent targets. The experiment results demonstrated that the proposed system can detect targets of different colors, transparencies, and motion states. In the static experiments, the static location errors of the proposed system in the range of 200 mm to 320 mm are 0.51 mm, 0.50 mm and 0.53 mm, whereas the errors of a commercial laser sensor are 2.89 mm, 0.62 mm, and NnA. In the dynamic experiments, the experimental materials are the targets with thicknesses of 1 mm, 1.5 mm, 2 mm and 2.5 mm, respectively. The proposed system can detect the above targets with a maximum detection error of 4.00%. Meanwhile, the minimum resolution of the proposed system is about 0.5 mm. Finally, in the comprehensive experiments, the proposed system successfully guides a robotic manipulator to realize the detecting, grasping, and moving of a transparent target with 1 mm. This ultrasonic target detection system has demonstrated a cost-effective method to detect targets, especially transparent targets, which can be widely used in the detection and transfer of glass substrates in automated production lines.<br/>
-The detail about this research can be found in [DIO:10.3390/mi14030683](http://dx.doi.org/10.3390/mi14030683){:target="_blank"}. <br/>
+3.Designed and developed a high sensitivity AlN-based MEMS hydrophone for pipeline leak monitoring.<br/>
+Abstract: In this work, a miniaturized, low-cost, low-power and high-sensitivity AlN-based microelectro-mechanical system (MEMS) hydrophone is proposed for monitoring water pipeline leaks. The proposed MEMS Hydrophone consists of a piezoelectric micromachined ultrasonic transducer (PMUT) array, an acoustic matching layer and a pre-amplifier amplifier circuit. The array has 4 (2x2) PMUT elements with a first-order resonant frequency of 41.58 kHz. Due to impedance matching of the acoustic matching layer and the 40 dB gain of the pre-amplifier amplifier circuit, the packaged MEMS Hydrophone has a high sound pressure sensitivity of -170±2 dB (re: 1 V/uPa). The performance with respect to detecting pipeline leaks and locating leak points is demonstrated on a 31 m stainless leaking pipeline platform. The standard deviation (STD) of the hydroacoustic signal and Monitoring Index Efficiency (MIE) are extracted as features of the pipeline leak. A random forest model is trained for accurately classifying the leak and no-leak cases using the above features, and the accuracy of the model is about 97.69%. The cross-correlation method is used to locate the leak point, and the localization relative error is about 10.84% for a small leak of 12 L/min.<br/>
+The detail about this research can be found in [DIO:10.3390/mi14030654](http://dx.doi.org/10.3390/mi14030654){:target="_blank"}. <br/>
    <center>
     <img style = "
         border-radius: 0.3125em;
@@ -341,7 +338,28 @@ The detail about this research can be found in [DIO:10.3390/mi14030683](http://d
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Fig17. The overview of the ultrasonic target detection system based on PMUTs
+        Fig17. The designed MEMS Hydrophone
+    </div>
+    <p> </p>
+ </center>
+
+4.Designed and developed an ultrasonic target detection system based on PMUTs.<br/>
+Abstract: In this paper, an ultrasonic target detection system based on Piezoelectric Micromachined Ultrasonic Transducers (PMUTs) is proposed, which consists of the PMUTs based ultrasonic sensor and the sensor system. Two pieces of 3 x 3 PMUTs arrays with the resonant frequency of 115 kHz are used as transmitter and receiver of the PMUTs-based ultrasonic sensor. Then, the sensor system can calculate the target’s position through the signal received by the above receiver. The static and dynamic performance of the proposed prototype system are characterized on black, white, and transparent targets. The experiment results demonstrated that the proposed system can detect targets of different colors, transparencies, and motion states. In the static experiments, the static location errors of the proposed system in the range of 200 mm to 320 mm are 0.51 mm, 0.50 mm and 0.53 mm, whereas the errors of a commercial laser sensor are 2.89 mm, 0.62 mm, and NnA. In the dynamic experiments, the experimental materials are the targets with thicknesses of 1 mm, 1.5 mm, 2 mm and 2.5 mm, respectively. The proposed system can detect the above targets with a maximum detection error of 4.00%. Meanwhile, the minimum resolution of the proposed system is about 0.5 mm. Finally, in the comprehensive experiments, the proposed system successfully guides a robotic manipulator to realize the detecting, grasping, and moving of a transparent target with 1 mm. This ultrasonic target detection system has demonstrated a cost-effective method to detect targets, especially transparent targets, which can be widely used in the detection and transfer of glass substrates in automated production lines.<br/>
+The detail about this research can be found in [DIO:10.3390/mi14030683](http://dx.doi.org/10.3390/mi14030683){:target="_blank"}. <br/>
+   <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_research/Fig18.png" 
+        width = "80%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig18. The overview of the ultrasonic target detection system based on PMUTs
     </div>
     <p> </p>
  </center>
@@ -353,13 +371,13 @@ The detail about this research can be found in [DIO:10.3390/mi14051069](http://d
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/images_research/Fig18a.png" 
+        src = "../images/images_research/Fig19a.png" 
         width = "80%">
     <br>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/images_research/Fig18b.png" 
+        src = "../images/images_research/Fig19b.png" 
         width = "80%">
     <br>
    <div style = "
@@ -368,7 +386,7 @@ The detail about this research can be found in [DIO:10.3390/mi14051069](http://d
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Fig18. The design and image of the MEMS accelerometer
+        Fig19. The design and image of the MEMS accelerometer
     </div>
     <p> </p>
  </center>
@@ -380,7 +398,7 @@ The detail about this research can be found in [DIO:10.3390/s23031077](http://dx
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/images_research/Fig19.png" 
+        src = "../images/images_research/Fig20.png" 
         width = "80%">
     <br>
    <div style = "
@@ -389,7 +407,7 @@ The detail about this research can be found in [DIO:10.3390/s23031077](http://dx
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Fig19. The design of acoustic localization sensor based on MEMS microphone array
+        Fig20. The design of acoustic localization sensor based on MEMS microphone array
     </div>
     <p> </p>
  </center>
@@ -404,7 +422,7 @@ The detail about this research can be found in [DIO:10.1139/tcsme-2018-0052](htt
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/images_research/Fig20.png" 
+        src = "../images/images_research/Fig21.png" 
         width = "80%">
     <br>
    <div style = "
@@ -413,7 +431,7 @@ The detail about this research can be found in [DIO:10.1139/tcsme-2018-0052](htt
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Fig20. The structure of the support-tracked type in-pipe robot
+        Fig21. The structure of the support-tracked type in-pipe robot
     </div>
     <p> </p>
  </center>
