@@ -188,7 +188,7 @@ The detail about this research can be found in [DIO:10.1109/JSEN.2021.3068487](h
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/images_research/Fig10.png" 
+        src = "../images/images_research/Fig10.jpg" 
         width = "90%">
     <br>
    <div style = "
@@ -273,7 +273,7 @@ The detail about this research can be found in [DIO:10.3390/mi13122221](http://d
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/images_research/Fig14.png" 
-        width = "90%">
+        width = "80%">
     <br>
    <div style = "
         color: orange;
@@ -291,7 +291,7 @@ The detail about this research can be found in [DIO:10.3390/mi13122221](http://d
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/images_research/Fig15.png" 
-        width = "50%">
+        width = "80%">
     <br>
    <div style = "
         color: orange;
@@ -312,7 +312,7 @@ The detail about this research can be found in [DIO:10.3390/mi14030654](http://d
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/images_research/Fig16.png" 
-        width = "50%">
+        width = "80%">
     <br>
    <div style = "
         color: orange;
@@ -333,7 +333,7 @@ The detail about this research can be found in [DIO:10.3390/mi14030683](http://d
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/images_research/Fig17.png" 
-        width = "50%">
+        width = "80%">
     <br>
    <div style = "
         color: orange;
@@ -354,13 +354,13 @@ The detail about this research can be found in [DIO:10.3390/mi14051069](http://d
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/images_research/Fig18a.png" 
-        width = "50%">
+        width = "80%">
     <br>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/images_research/Fig18b.png" 
-        width = "50%">
+        width = "80%">
     <br>
    <div style = "
         color: orange;
@@ -381,7 +381,7 @@ The detail about this research can be found in [DIO:10.3390/s23031077](http://dx
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/images_research/Fig19.png" 
-        width = "50%">
+        width = "80%">
     <br>
    <div style = "
         color: orange;
@@ -405,7 +405,7 @@ The detail about this research can be found in [DIO:10.1139/tcsme-2018-0052](htt
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/images_research/Fig20.png" 
-        width = "50%">
+        width = "80%">
     <br>
    <div style = "
         color: orange;
