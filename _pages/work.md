@@ -37,7 +37,7 @@ The work during product development manager
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/images_work/work_Fig2.jpg" 
+        src = "../images/images_work/work_Fig2.png" 
         width = "80%">
     <br>
    <div style = "
@@ -55,7 +55,7 @@ The work during product development manager
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/images_work/work_Fig3.jpg" 
+        src = "../images/images_work/work_Fig3.png" 
         width = "80%">
     <br>
    <div style = "
