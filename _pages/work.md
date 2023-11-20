@@ -32,3 +32,41 @@ The work during product development manager
 * Signal processing and analysis for the noise logger and hydrophone.<br/>
 * Built the leak detection and location algorithm for noise logger and hydrophone. Several algorithms have been development, which can be applied in the MCU of noise logger or the server of website. The effect of the leak detection algorithm applied in the MCU of noise logger is similar to the current mature products. And the algorithms applied in the server of website can provide more accurate water leakage analysis.<br/>
 * The analysis and writing of patent.<br/>
+
+  <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_work/work_Fig2.jpg" 
+        width = "80%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig1. The result comparison of a commercial product and our product on a leaked pipeline.
+    </div>
+    <p> </p>
+ </center>
+
+   <center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/images_work/work_Fig3.jpg" 
+        width = "80%">
+    <br>
+   <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Fig2. The result comparison of a commercial product and our product on a unleaked pipeline.
+    </div>
+    <p> </p>
+ </center>
+
+ 

@@ -5,6 +5,13 @@ permalink: /funding/
 author_profile: true
 ---
 
+The pressure and leakage monitoring project of a long-distance pipeline in Inner Mongolia
+=====
+Name in Chinese: 内蒙某长输管线压力与漏损监测项目<br/>
+Role: algorithm engineer<br/>
+Time: 2022.09~2023.07<br/>
+Total research expenditure: RMB 2 million.<br/>
+
 The crucial technology and platform of MEMS piezoelectric film and device based on Silicon
 =====
 **National Key Research and Development Program of China** <br/>
@@ -37,7 +44,7 @@ Total research expenditure: RMB 0.3 million.<br/>
 The development of in-pipe ultrasonic detection robot with video monitoring
 =====
 Name in Chinese: 融合视频监测的锅炉管道内超声检测机器人的研发<br/>
-Role: team member<br/>
+Role: team leader<br/>
 Time: 2016.08~2019.01<br/>
 Total research expenditure: RMB 0.14 million.<br/>
 
