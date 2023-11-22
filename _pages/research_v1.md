@@ -13,6 +13,7 @@ Research Interests
 
 Research Experience
 ======
+@[toc](目录)
 ## Ph.D. dissertation: Research on AlN-based Piezoelectric Micromachined Ultrasonic Transducer and the Range-finding System
  (Supervisor: Professor [Chengliang Sun](https://technology.whu.edu.cn/info/1015/1882.htm){:target="_blank"} and [Liang Lou](https://sme.shu.edu.cn/info/1028/1220.htm){:target="_blank"})<br/>
 This research is focus on the development of ultrasonic range-finding sensor based on the AlN PMUTs and the fusion of robot and MEMS sensor. In this dissertation, an ultrasonic range-finding system based on AlN PMUTs is proposed. Then the above system is used on a collaborative robot. Finally, a human-robot interaction based on AlN PMUTs and the collaborative robot is realized. The main content of this dissertation is as follows:<br/>
@@ -38,8 +39,6 @@ This research is focus on the development of ultrasonic range-finding sensor bas
 
 ## Master of Science research experience:
 Designed a new self-adjusting support structure for the in-pipe robot to improve its motion ability in different pipe condition especially in vertical pipe. And proposed a hierarchical fuzzy controller for the above robot, which can be utilized to implement autonomous movement in the pipe.
-
-[TOC]
 
 ## Ph.D. dissertation: Research on AlN-based Piezoelectric Micromachined Ultrasonic Transducer and the Range-finding System
  (Supervisor: Professor [Chengliang Sun](https://technology.whu.edu.cn/info/1015/1882.htm){:target="_blank"} and [Liang Lou](https://sme.shu.edu.cn/info/1028/1220.htm){:target="_blank"})<br/>
