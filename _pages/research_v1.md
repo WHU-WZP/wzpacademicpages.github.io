@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /research/
+permalink: /research_v1/
 author_profile: true
 ---
 
@@ -13,6 +13,34 @@ Research Interests
 
 Research Experience
 ======
+## Ph.D. dissertation: Research on AlN-based Piezoelectric Micromachined Ultrasonic Transducer and the Range-finding System
+ (Supervisor: Professor [Chengliang Sun](https://technology.whu.edu.cn/info/1015/1882.htm){:target="_blank"} and [Liang Lou](https://sme.shu.edu.cn/info/1028/1220.htm){:target="_blank"})<br/>
+This research is focus on the development of ultrasonic range-finding sensor based on the AlN PMUTs and the fusion of robot and MEMS sensor. In this dissertation, an ultrasonic range-finding system based on AlN PMUTs is proposed. Then the above system is used on a collaborative robot. Finally, a human-robot interaction based on AlN PMUTs and the collaborative robot is realized. The main content of this dissertation is as follows:<br/>
+1.The influence of ringdown on AlN PMUTs and the strategy for suppressing ring-down.<br/>
+(1) The method of adjusting the characteristics of AlN PMUTs through the DC bias voltage is proposed, and the effects of DC bias voltage on characteristics for AlN PMUTs are investigated.
+(2) A novel ring-down suppression system based on transfer function is proposed to suppress the ring-down time and decrease the blind area of PMUTs.
+2.The design of an ultrasonic range-finding system based on AlN PMUTs.<br/>
+3.The design of a human-robot interaction system based on AlN PMUTs and the UR3 manipulator.<br/>
+
+## Ph.D. other research experience:
+1.Designed and developed an ultrasonic proximity sensing skin for robot safety control based on PMUTs.<br/>
+2.Designed a PMUTs based on piston mode.<br/>
+3.Designed a broadband PMUTs with a resonant cavity.<br/>
+
+
+## Shanghai Industrial μTechnology Research Institute research experience:
+1.Designed and developed a miniaturized transit-time ultrasonic flowmeter based on ScAlN PMUTs for small-diameter applications.
+2.Designed and developed a high-sensitivity bowel sound electronic monitor based on PMUTs.
+3.Designed and developed a high sensitivity AlN-based MEMS hydrophone for pipeline leak monitoring.<br/>
+4.Designed and developed an ultrasonic target detection system based on PMUTs.<br/>
+5.Designed and developed a high-sensitivity MEMS accelerometer using the Sc0.8Al0.2N-based four beam structure.<br/>
+6.Designed and developed an acoustic localization sensor based on MEMS microphone array for partial discharge.<br/>
+
+## Master of Science research experience:
+Designed a new self-adjusting support structure for the in-pipe robot to improve its motion ability in different pipe condition especially in vertical pipe. And proposed a hierarchical fuzzy controller for the above robot, which can be utilized to implement autonomous movement in the pipe.
+
+[TOC]
+
 ## Ph.D. dissertation: Research on AlN-based Piezoelectric Micromachined Ultrasonic Transducer and the Range-finding System
  (Supervisor: Professor [Chengliang Sun](https://technology.whu.edu.cn/info/1015/1882.htm){:target="_blank"} and [Liang Lou](https://sme.shu.edu.cn/info/1028/1220.htm){:target="_blank"})<br/>
 This research is focus on the development of ultrasonic range-finding sensor based on the AlN PMUTs and the fusion of robot and MEMS sensor. In this dissertation, an ultrasonic range-finding system based on AlN PMUTs is proposed. Then the above system is used on a collaborative robot. Finally, a human-robot interaction based on AlN PMUTs and the collaborative robot is realized. The main content of this dissertation is as follows:<br/>
@@ -263,7 +291,7 @@ The detail about this research can be found in [DIO:10.1109/TUFFC.2021.3119669](
  </center>
 
 ## Shanghai Industrial μTechnology Research Institute research experience:
-1.Designed and developed a miniaturized transit-time ultrasonic flowmeter based on ScAlN PMUTs for small-diameter applications.
+1.Designed and developed a miniaturized transit-time ultrasonic flowmeter based on ScAlN PMUTs for small-diameter applications.<br/>
 Abstract: Transit-time ultrasonic flowmeters (TTUFs) are among the most widely used devices for flow measurements. However, traditional TTUFs are usually based on a bulk piezoelectric transducer, which limits their application in small-diameter channels. In this paper, we developed a miniaturized TTUF based on scandium-doped aluminum nitride (ScAlN) piezoelectric micromachined ultrasonic transducers (PMUTs). The proposed TTUF contains two PMUT-based transceivers and a π-type channel. The PMUTs contain 13 × 13 square cells with dimensions of 2.8 × 2.8mm2. To compensate for the acoustic impedance mismatch with liquid, a layer of polyurethane is added to the surface of the PMUTs as a matching layer. The PMUT-based transceivers show good transmitting sensitivity (with 0.94 MPa/V surface pressure) and receiving sensitivity (1.79 mV/kPa) at a frequency of 1 MHz in water. Moreover, the dimensions of the π-type channel are optimized to achieve a measurement sensitivity of 82 ns/(m/s) and a signal-to-noise ratio (SNR) better than 15 dB. Finally, we integrate the fabricated PMUTs into the TDC-GP30 platform. The experimental results show that the developed TTUF provides a wide range of flow measurements from 2 to 300 L/h in a channel of 4 mm diameter, which is smaller than most reported channels. The accuracy and repeatability of the TTUF are within 0.2% and 1%, respectively. The proposed TTUF shows great application potential in industrial applications such as medical and chemical applications.<br/>
 The detail about this research can be found in [DIO:10.1038/s41378-023-00518-y](http://dx.doi.org/10.1038/s41378-023-00518-y){:target="_blank"} and [DIO:10.1109/MEMS49605.2023.10052185](http://dx.doi.org/10.1109/MEMS49605.2023.10052185){:target="_blank"}. <br/>
   <center>
@@ -283,7 +311,7 @@ The detail about this research can be found in [DIO:10.1038/s41378-023-00518-y](
     </div>
     <p> </p>
  </center>
-2.Designed and developed a high-sensitivity bowel sound electronic monitor based on PMUTs.
+2.Designed and developed a high-sensitivity bowel sound electronic monitor based on PMUTs.<br/>
 Abstract: Bowel sounds contain some important human physiological parameters which can reflect information about intestinal function. In this work, in order to realize real-time monitoring of bowel sounds, a portable and wearable bowel sound electronic monitor based on piezoelectric micromachined ultrasonic transducers (PMUTs) is proposed. This prototype consists of a sensing module to collect bowel sounds and a GUI (graphical user interface) based on LabVIEW to display real-time bowel sound signals. The sensing module is composed of four PMUTs connected in parallel and a signal conditioning circuit. The sensitivity, noise resolution, and non-linearity of the bowel sound monitor are measured in this work. The result indicates that the designed prototype has high sensitivity (-142.69 dB), high noise resolution (50 dB at 100 Hz), and small non-linearity. To demonstrate the characteristic of the designed electronic monitor, continuous bowel sound monitoring is performed using the electronic monitor and a stethoscope on a healthy human before and after a meal. Through comparing the experimental results and analyzing the signals in the time domain and frequency domain, this bowel sound monitor is demonstrated to record bowel sounds from the human intestine. This work displays the potential of the sensor for the daily monitoring of bowel sounds.<br/>
 The detail about this research can be found in [DIO:10.3390/mi13122221](http://dx.doi.org/10.3390/mi13122221){:target="_blank"}. <br/>
   <center>
@@ -414,7 +442,7 @@ The detail about this research can be found in [DIO:10.3390/s23031077](http://dx
 
 
 ## Master of Science research experience:
-Designed a new self-adjusting support structure for the in-pipe robot to improve its motion ability in different pipe condition especially in vertical pipe. And proposed a hierarchical fuzzy controller for the above robot, which can be utilized to implement autonomous movement in the pipe.
+Designed a new self-adjusting support structure for the in-pipe robot to improve its motion ability in different pipe condition especially in vertical pipe. And proposed a hierarchical fuzzy controller for the above robot, which can be utilized to implement autonomous movement in the pipe.<br/>
 (Supervisor: Professor [Xiaohui Xiao](https://pmc.whu.edu.cn/info/1017/13524.htm){:target="_blank"})<br/>
 Abstract:Autonomous movement is important for the in-pipe robot. Because of the complex environment of the pipe, traditional control methods such as proportional–integral–derivative (PID) can not be used to implement autonomous movement for the support-tracked type in-pipe robot. A hierarchical fuzzy controller is proposed in this paper, which consists of fuzzy steering control and fuzzy posture control. The fuzzy steering control is utilized to control the robot’s turning movement in the elbow pipe, while the fuzzy posture control is used to adjust the posture of the robot in the straight pipe. The robot’s posture will periodically coincide after every 120°, when the robot rotates around its central axis. The symmetry is helpful to reduce the 12 × 7 × 7 three-dimensional fuzzy posture control rule table to five 7 × 7 two-dimensional fuzzy rule tables. A support-tracked in-pipe robot prototype is developed to verify the performance of the hierarchical fuzzy controller. Simulation and experimental results show that the robot with the controller could successfully pass the 45° and 90° elbows with a smaller change of posture compared to the case without the controller. As the robot with the controller could pass the elbow without obvious posture change, the proposed controller can be utilized to implement autonomous movement of an in-pipe robot.<br/>
 The detail about this research can be found in [DIO:10.1139/tcsme-2018-0052](http://dx.doi.org/10.1139/tcsme-2018-0052){:target="_blank"}. <br/> 
