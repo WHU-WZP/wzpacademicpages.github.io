@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Ph.D. dissertation: Research on AlN-based Piezoelectric Micromachined Ultrasonic Transducer and the Range-finding System"
-permalink: /PhDdissertation/
-author_profile: true
+collection: research
+permalink: /research/PhD_dissertation
 ---
 
 
