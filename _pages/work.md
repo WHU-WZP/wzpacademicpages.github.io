@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Work Experience"
-permalink: /work/
+permalink: /work_v0/
 author_profile: true
 ---
 
@@ -37,7 +37,7 @@ The work during product development manager
   <img style = "
       border-radius: 0.3125em;
       box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-      src = "../images/images_work/work_Fig2.png" 
+      src = "../images/images_work/work_Fig1_watermark.png" 
       width = "80%">
   <br>
   <div style = "
@@ -46,7 +46,7 @@ The work during product development manager
       display: inline-block;
       color: #999;
       padding: 2px;">
-      Fig1. The result comparison of a commercial product and our product on a leaked pipeline.
+      Fig1. The overview of our product.
   </div>
   <p> </p>
 </center>
@@ -55,7 +55,7 @@ The work during product development manager
   <img style = "
       border-radius: 0.3125em;
       box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-      src = "../images/images_work/work_Fig3.png" 
+      src = "../images/images_work/work_Fig2_watermark.png" 
       width = "80%">
   <br>
   <div style = "
@@ -64,7 +64,25 @@ The work during product development manager
       display: inline-block;
       color: #999;
       padding: 2px;">
-      Fig2. The result comparison of a commercial product and our product on a unleaked pipeline.
+      Fig2. The result comparison of a commercial product and our product on a leaked pipeline.
+  </div>
+  <p> </p>
+</center>
+
+<center>
+  <img style = "
+      border-radius: 0.3125em;
+      box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+      src = "../images/images_work/work_Fig3_watermark.png" 
+      width = "80%">
+  <br>
+  <div style = "
+      color: orange;
+      border-bottom: 1px solid #d9d9d9;
+      display: inline-block;
+      color: #999;
+      padding: 2px;">
+      Fig3. The result comparison of a commercial product and our product on a unleaked pipeline.
   </div>
   <p> </p>
 </center>
