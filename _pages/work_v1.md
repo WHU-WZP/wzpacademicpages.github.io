@@ -7,24 +7,24 @@ author_profile: true
 
 # Work Skill
 ## MEMS devices
-* The design, simulation and measurement of MEMS devices, especially piezoelectric MEMS devices.r<br/>
-* The drawing of layout for MEMS devices.r<br/>
-* Familiar with the design tools, such as SolidWorks, AutoCAD,L-edit.r<br/>
-* Familiar with the simulation tools, such as COMSOL, ANSYS.r<br/>
-* Familiar with the normal measurement process of MEMS devices, and familiar with the operation of measurement equipment, such as LDV, impedance analyzer, optical profiler, etc.r<br/>
+* The design, simulation and measurement of MEMS devices, especially piezoelectric MEMS devices.<br/>
+* The drawing of layout for MEMS devices.<br/>
+* Familiar with the design tools, such as SolidWorks, AutoCAD,L-edit.<br/>
+* Familiar with the simulation tools, such as COMSOL, ANSYS.<br/>
+* Familiar with the normal measurement process of MEMS devices, and familiar with the operation of measurement equipment, such as LDV, impedance analyzer, optical profiler, etc.<br/>
 
 ## Sensor and IOT
-* The design of sensor system.r<br/>
-* Signal analysis and processingr.<br/>
-* The design of algorithm for sensor.r<br/>
-* Familiar with many programming languages, such as C/C++, MATLAB, Python, LabVIEW.r<br/>
+* The design of sensor system.<br/>
+* Signal analysis and processing.<br/>
+* The design of algorithm for sensor.<br/>
+* Familiar with many programming languages, such as C/C++, MATLAB, Python, LabVIEW.<br/>
 
 ## Robot
 * The design of robot.r<br/>
-* The design of control system and control algorithm for the robot.r<br/>
-* The simulation of robot.r<br/>
-* Familiar with ROS and Linux.r<br/>
-* Familiar with the simulation tools, such as Adams, ANSYS.r<br/>
+* The design of control system and control algorithm for the robot.<br/>
+* The simulation of robot.<br/>
+* Familiar with ROS and Linux.<br/>
+* Familiar with the simulation tools, such as Adams, ANSYS.<br/>
 
 # Work Experience
 ## Shanghai Roadix Technology Co Ltd (2023.10~present)
